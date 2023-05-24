@@ -1,1 +1,1 @@
-Sitemap: https://github.com/kesslerr/kesslerr.github.io/sitemap.xml
+Sitemap: https://kesslerr.github.io/sitemap.xml
