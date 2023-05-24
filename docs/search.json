@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "this is a test\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "useful tools",
+    "section": "",
+    "text": "Misc\n\nuse quarto to make a website on github youtube tutorial series"
   }
 ]

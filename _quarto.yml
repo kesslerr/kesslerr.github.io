@@ -9,8 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Useful tools
-        text: tools.qmd
+      - tools.qmd
 
 format:
   html:
@@ -18,5 +17,7 @@ format:
     css: styles.css
     toc: true
 
-
+# for GitHub actions: automatical rendering
+execute:
+  freeze: auto
 
