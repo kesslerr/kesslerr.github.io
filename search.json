@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "useful tools",
+    "section": "",
+    "text": "Misc\n\nuse quarto to make a website on github youtube tutorial series"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Roman Kessler",
+    "section": "",
+    "text": "Cognitive Neuroscientist & Data Scientist\ntest\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "this is a test\n\n1 + 1\n\n[1] 2"
+  }
+]
