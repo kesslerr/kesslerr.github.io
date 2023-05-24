@@ -1,10 +1,8 @@
 ---
-title: "kesslerr.github.io"
+title: "Dr. Roman Kessler"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Cognitive Neuroscientist & Data Scientist
 
 ```{r}
 1 + 1
