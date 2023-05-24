@@ -1,0 +1,5 @@
+---
+title: "useful tools"
+---
+
+-   how to use quarto to make a website on github: https://www.youtube.com/watch?v=EjGdjHCo_Ms&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=6
