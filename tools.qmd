@@ -2,6 +2,8 @@
 title: "useful tools"
 ---
 
+![](cat_tools.gif)
+
 # Misc
 
 -   use quarto to make a website on github [youtube tutorial series](https://www.youtube.com/watch?v=EjGdjHCo_Ms&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=6), automatically render website on push [link](https://quarto.org/docs/publishing/github-pages.html#github-action)

@@ -4,8 +4,6 @@ title: "Dr. Roman Kessler"
 
 Cognitive Neuroscientist & Data Scientist
 
-test
-s
-```{r}
-1 + 1
-```
+Currently working at Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. 
+
+![](cat_box.gif)

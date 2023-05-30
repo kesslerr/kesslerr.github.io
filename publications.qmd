@@ -2,9 +2,27 @@
 title: "Publications"
 ---
 
+
+
+
 ## Articles
 
-- Kessler, Raja, Tapia & Busch (*submitted*) -- **Towards Minimizing Efforts for Morphing Attacks - Deep Embeddings for Morphing Pair Selection and Improved Morphing Attack Detection.**
+
+<style>
+.text-container {
+  float: left;
+  width: 75%;
+}
+
+.image-container {
+  float: right;
+  width: 25%;
+}
+</style>
+
+<div class="text-container">
+
+- Kessler, Raja, Tapia & Busch (2023) -- **Towards Minimizing Efforts for Morphing Attacks - Deep Embeddings for Morphing Pair Selection and Improved Morphing Attack Detection.** *ArXiv* [link](https://arxiv.org/abs/2305.18216)
 
 - Kessler, Philipp, Wilfer & Kostev (2023) -- **Predictive attributes for developing long COVID – a study using machine learning and real-world data from primary care physicians in Germany.** *Journal of Clinical Medicine* [link](https://www.mdpi.com/2077-0383/12/10/3511)
         
@@ -24,6 +42,7 @@ title: "Publications"
 
 - Kessler, Bach & Heinrich (2017) -- **Two-Tactor Vibrotactile Navigation Information for the Blind - Directional Resolution and Intuitive Interpretation.** *IEEE Transactions on Neural Systems and Rehabilitation Engineering* [link](https://ieeexplore.ieee.org/abstract/document/7473877)
 
+
 ## Talks
 
 - upcoming June 2023 -- **Visual and auditory population coding for quantity in human cortices** -- Psychologie und Gehirn (PUG), Tübingen
@@ -33,3 +52,12 @@ title: "Publications"
 - March 2020 -- **A bilateral model of congenital prosopagnosia – connectivity between FFA and ATL** -- 2nd Symposium of the Arbeitsgemeinschaft für Neuropsychopharmakologie und Pharmakopsychiatrie (AGNP) und Deutsche Gesellschaft für Biologische Psychiatrie (DGNP)
 
 - October 2017 -- **The watchdog won't stop barking. Reduced Amygdala Inhibition in Major Depression. Normalization via Medication, and the Impact of Genetic and Environmental Risk Factors.** -- World Congress of Psychiatry, WPA XVII, Berlin 
+
+</div>
+
+<div class="image-container">
+![](cat_computer.gif)
+</div>
+
+
+

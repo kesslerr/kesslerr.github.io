@@ -1,6 +1,6 @@
 ---
 title: "CV"
-image: goose.png
+image: pushup.gif
 about:
   template: solana
   image-width: 7em
