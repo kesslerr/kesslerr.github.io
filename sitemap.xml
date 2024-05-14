@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kesslerr.github.io/index.html</loc>
-    <lastmod>2024-05-14T19:17:36.105Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kesslerr.github.io/about.html</loc>
-    <lastmod>2024-05-14T19:17:36.045Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kesslerr.github.io/tools.html</loc>
-    <lastmod>2024-05-14T19:17:36.113Z</lastmod>
+    <loc>https://kesslerr.github.io/videos.html</loc>
+    <lastmod>2023-05-25T09:19:13.889Z</lastmod>
   </url>
   <url>
     <loc>https://kesslerr.github.io/publications.html</loc>
-    <lastmod>2024-05-14T19:17:36.109Z</lastmod>
+    <lastmod>2024-05-14T19:06:55.039Z</lastmod>
   </url>
   <url>
-    <loc>https://kesslerr.github.io/videos.html</loc>
-    <lastmod>2024-05-14T19:17:36.113Z</lastmod>
+    <loc>https://kesslerr.github.io/tools.html</loc>
+    <lastmod>2023-05-30T11:21:55.168Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kesslerr.github.io/index.html</loc>
+    <lastmod>2024-05-14T19:15:46.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kesslerr.github.io/about.html</loc>
+    <lastmod>2023-05-30T12:36:12.420Z</lastmod>
   </url>
 </urlset>
