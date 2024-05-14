@@ -4,6 +4,25 @@ title: "Dr. Roman Kessler"
 
 Cognitive Neuroscientist & Data Scientist
 
-Currently working at Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. 
+Currently located at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. 
+
+[Email me](mailto:rkesslerx@gmail.com)
 
 ![](cat_box.gif)
+
+
+
+## Ads
+
+Planing on holidays in the picturesque black forest?
+
+<style>
+.image-link img {
+    width: 300px;  /* Adjust the width as needed */
+    height: auto;  /* This will automatically adjust the height proportionally */
+}
+</style>
+
+<a href="https://www.maierbauernhof.de" class="image-link"><img src="holidays.jpg" alt="holidays"></a>
+
+

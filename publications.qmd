@@ -7,6 +7,7 @@ title: "Publications"
 
 ## Articles
 
+[//]: # Define horizontal columns
 
 <style>
 .text-container {
@@ -19,6 +20,9 @@ title: "Publications"
   width: 25%;
 }
 </style>
+
+
+[//]: # beginning of the text block
 
 <div class="text-container">
 
@@ -45,7 +49,9 @@ title: "Publications"
 
 ## Talks
 
-- upcoming June 2023 -- **Visual and auditory population coding for quantity in human cortices** -- Psychologie und Gehirn (PUG), Tübingen
+- May 2024 -- **Is EEG better left alone for decoding?** -- Psychologie und Gehirn (PuG), Hamburg
+
+- June 2023 -- **Visual and auditory population coding for quantity in human cortices** -- Psychologie und Gehirn (PuG), Tübingen
 
 - March 2021 -- **Fingerprints, forever young?** -- German Teletrust Biometric Working Group, European Association for Biometrics
 
@@ -53,6 +59,7 @@ title: "Publications"
 
 - October 2017 -- **The watchdog won't stop barking. Reduced Amygdala Inhibition in Major Depression. Normalization via Medication, and the Impact of Genetic and Environmental Risk Factors.** -- World Congress of Psychiatry, WPA XVII, Berlin 
 
+[//]: # End of the text block
 </div>
 
 <div class="image-container">

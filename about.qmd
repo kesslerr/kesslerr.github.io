@@ -24,6 +24,50 @@ about:
 
 Cognitive Neuroscientist & Data Scientist
 
+
+```{r, echo=FALSE}
+
+
+library(timevis)
+
+data <- data.frame(
+  id      = 1:8,
+  group   = c(1,1,1,1,2,2,2,2),
+  content = c("Biology BSc"  , 
+              "Cognitive Neurosciences MSc"  ,
+              "Cognitive Neurosciences PhD", 
+              "Data Sciences MSc",
+              "Cognitive Neuroscientist",
+              "Stipendiary (Data Science)",
+              "Data Analyst / Data Scientist",
+              "Data Scientist / Neuroscientist"
+              #"Towards minimizing efforts for Morphing Attacks"
+              ),
+  start   = c("2010-10-01", "2014-10-01", "2016-10-01", "2019-10-01",
+              "2016-11-15", "2021-08-01", "2022-02-01", "2022-10-01"
+              #"2023-05-30"
+              ),
+  end     = c("2014-07-31", "2016-09-30", "2022-07-31", "2022-01-31",
+              "2022-07-31", "2022-01-31", "2022-07-31", "2023-12-31"
+              #NA
+              ))
+  #start   = c("2016-01-10", "2016-01-11", "2016-01-20", "2016-02-14 15:00:00"),
+  #end     = c(NA          ,           NA, "2016-02-04", NA))
+
+groups <- data.frame(
+  id = c(1,2),
+  content = c("Education", "Experience") # , "Publications"
+)
+
+# Set the minimum and maximum values for the x-axis
+min_date <- as.Date("2010-10-01")
+max_date <- as.Date("2023-12-31")
+dates = list(min=min_date, max=max_date)
+
+timevis(data, groups)
+```
+
+
 ## Education
 
 - 2016 - 2022 **PhD in Cognitive Neurosciences** | University of Marburg | Germany
