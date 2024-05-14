@@ -21,25 +21,39 @@
     "text": "May 2024 – Is EEG better left alone for decoding? – Psychologie und Gehirn (PuG), Hamburg\nJune 2023 – Visual and auditory population coding for quantity in human cortices – Psychologie und Gehirn (PuG), Tübingen\nMarch 2021 – Fingerprints, forever young? – German Teletrust Biometric Working Group, European Association for Biometrics\nMarch 2020 – A bilateral model of congenital prosopagnosia – connectivity between FFA and ATL – 2nd Symposium of the Arbeitsgemeinschaft für Neuropsychopharmakologie und Pharmakopsychiatrie (AGNP) und Deutsche Gesellschaft für Biologische Psychiatrie (DGNP)\nOctober 2017 – The watchdog won’t stop barking. Reduced Amygdala Inhibition in Major Depression. Normalization via Medication, and the Impact of Genetic and Environmental Risk Factors. – World Congress of Psychiatry, WPA XVII, Berlin"
   },
   {
-    "objectID": "tools.html#misc",
-    "href": "tools.html#misc",
+    "objectID": "tools.html#pipelining-tools",
+    "href": "tools.html#pipelining-tools",
     "title": "useful tools",
-    "section": "Misc",
-    "text": "Misc\n\nuse quarto to make a website on github youtube tutorial series, automatically render website on push link"
+    "section": "Pipelining tools",
+    "text": "Pipelining tools\nTo automate my analyses in R, I became fan of targets (formerly: drake), which is similar to Make. After some onboarding headaches, I can’t imagine working without it for new analysis projects."
+  },
+  {
+    "objectID": "tools.html#use-julia-and-r-combined",
+    "href": "tools.html#use-julia-and-r-combined",
+    "title": "useful tools",
+    "section": "Use Julia and R combined",
+    "text": "Use Julia and R combined\nJulia is extremely fast in fitting Mixed models (and probably also other things). For large models, I recommend checking out using Julias MixedModels.jl, which uses the same notations than R’s lme4/lmerTest package. To seamlessly integrate Julia in my R workflow, I use the JuliaCall package in R. To be able to convert Julia models to R model objects, the Julia JellyMe4 package does a wonderful job. All R functions applied to an lmer object can likewise be applied to such a converted Julia model. Some hustle can happen, when the model to be converted has special properties, such as zerocorr / ||, but the Julia community is very helpful."
+  },
+  {
+    "objectID": "tools.html#quarto",
+    "href": "tools.html#quarto",
+    "title": "useful tools",
+    "section": "Quarto",
+    "text": "Quarto\nUse quarto to make a website on GitHub (youtube tutorial series), and automatically render website on push."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr. Roman Kessler",
     "section": "",
-    "text": "Cognitive Neuroscientist & Data Scientist\nCurrently located at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany.\nEmail me"
+    "text": "Cognitive Neuroscientist & Data Scientist\nCurrently working at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany.\nLeipzig / Frankfurt a.M. 💚\nEmail me"
   },
   {
-    "objectID": "index.html#ads",
-    "href": "index.html#ads",
+    "objectID": "index.html#links",
+    "href": "index.html#links",
     "title": "Dr. Roman Kessler",
-    "section": "Ads",
-    "text": "Ads\nPlaning on holidays in the picturesque black forest?"
+    "section": "Links",
+    "text": "Links\nPlaning on holidays in the picturesque black forest?\n\n\nThe zoo of the future will be a place where animals are kept in their natural habitat, and visitors can observe them over a webcam:"
   },
   {
     "objectID": "about.html",

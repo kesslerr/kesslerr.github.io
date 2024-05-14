@@ -4,7 +4,19 @@ title: "useful tools"
 
 ![](cat_tools.gif)
 
-## Misc
 
--   use quarto to make a website on github [youtube tutorial series](https://www.youtube.com/watch?v=EjGdjHCo_Ms&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=6), automatically render website on push [link](https://quarto.org/docs/publishing/github-pages.html#github-action)
+## Pipelining tools
+
+To automate my analyses in R, I became fan of [targets](https://books.ropensci.org/targets/) (formerly: drake), which is similar to [Make](https://swcarpentry.github.io/make-novice/index.html). After some onboarding headaches, I can't imagine working without it for new analysis projects.
+
+
+## Use Julia and R combined
+
+Julia is extremely fast in fitting Mixed models (and probably also other things). For large models, I recommend checking out using Julias [MixedModels.jl](https://juliastats.org/MixedModels.jl/stable/), which uses the same notations than R's `lme4`/`lmerTest` package. To seamlessly integrate Julia in my R workflow, I use the [JuliaCall](https://cran.r-project.org/web/packages/JuliaCall/readme/README.html) package in R. To be able to convert Julia models to R model objects, the Julia [JellyMe4](https://github.com/palday/JellyMe4.jl) package does a wonderful job. All R functions applied to an `lmer` object can likewise be applied to such a converted Julia model. Some hustle can happen, when the model to be converted has special properties, such as `zerocorr` / `||`, but the Julia community is very helpful.
+
+
+## Quarto
+
+Use quarto to make a website on GitHub ([youtube tutorial series](https://www.youtube.com/watch?v=EjGdjHCo_Ms&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=6)), and automatically render website on  [push](https://quarto.org/docs/publishing/github-pages.html#github-action).
+
 

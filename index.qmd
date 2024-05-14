@@ -1,18 +1,24 @@
 ---
 title: "Dr. Roman Kessler"
+from: markdown+emoji
 ---
 
 Cognitive Neuroscientist & Data Scientist
 
-Currently located at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. 
+Currently working at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. 
+
+Leipzig / Frankfurt a.M. :green_heart:
 
 [Email me](mailto:rkesslerx@gmail.com)
 
+<!---
+your comment goes here
 ![](cat_box.gif)
+-->
 
 
 
-## Ads
+## Links
 
 Planing on holidays in the picturesque black forest?
 
@@ -23,6 +29,9 @@ Planing on holidays in the picturesque black forest?
 }
 </style>
 
-<a href="https://www.maierbauernhof.de" class="image-link"><img src="holidays.jpg" alt="holidays"></a>
+<a href="https://ferienparadies-maierbauernhof.jimdosite.com" class="image-link"><img src="holidays.jpg" alt="holidays"></a>
+
+The zoo of the future will be a place where animals are kept in their natural habitat, and visitors can observe them over a webcam: 
 
 
+{{< video https://www.youtube.com/watch?v=ydYDqZQpim8 >}}

@@ -11,7 +11,7 @@ website:
       - about.qmd
       - publications.qmd
       - tools.qmd
-      - videos.qmd
+      #- videos.qmd
 
 format:
   html:

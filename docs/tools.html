@@ -104,10 +104,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link active" href="./tools.html" aria-current="page"> 
 <span class="menu-text">useful tools</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./videos.html"> 
-<span class="menu-text">Videos</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
@@ -124,7 +120,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#misc" id="toc-misc" class="nav-link active" data-scroll-target="#misc">Misc</a></li>
+  <li><a href="#pipelining-tools" id="toc-pipelining-tools" class="nav-link active" data-scroll-target="#pipelining-tools">Pipelining tools</a></li>
+  <li><a href="#use-julia-and-r-combined" id="toc-use-julia-and-r-combined" class="nav-link" data-scroll-target="#use-julia-and-r-combined">Use Julia and R combined</a></li>
+  <li><a href="#quarto" id="toc-quarto" class="nav-link" data-scroll-target="#quarto">Quarto</a></li>
   </ul>
 </nav>
     </div>
@@ -151,11 +149,17 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="cat_tools.gif" class="img-fluid"></p>
-<section id="misc" class="level2">
-<h2 class="anchored" data-anchor-id="misc">Misc</h2>
-<ul>
-<li>use quarto to make a website on github <a href="https://www.youtube.com/watch?v=EjGdjHCo_Ms&amp;list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&amp;index=6">youtube tutorial series</a>, automatically render website on push <a href="https://quarto.org/docs/publishing/github-pages.html#github-action">link</a></li>
-</ul>
+<section id="pipelining-tools" class="level2">
+<h2 class="anchored" data-anchor-id="pipelining-tools">Pipelining tools</h2>
+<p>To automate my analyses in R, I became fan of <a href="https://books.ropensci.org/targets/">targets</a> (formerly: drake), which is similar to <a href="https://swcarpentry.github.io/make-novice/index.html">Make</a>. After some onboarding headaches, I can’t imagine working without it for new analysis projects.</p>
+</section>
+<section id="use-julia-and-r-combined" class="level2">
+<h2 class="anchored" data-anchor-id="use-julia-and-r-combined">Use Julia and R combined</h2>
+<p>Julia is extremely fast in fitting Mixed models (and probably also other things). For large models, I recommend checking out using Julias <a href="https://juliastats.org/MixedModels.jl/stable/">MixedModels.jl</a>, which uses the same notations than R’s <code>lme4</code>/<code>lmerTest</code> package. To seamlessly integrate Julia in my R workflow, I use the <a href="https://cran.r-project.org/web/packages/JuliaCall/readme/README.html">JuliaCall</a> package in R. To be able to convert Julia models to R model objects, the Julia <a href="https://github.com/palday/JellyMe4.jl">JellyMe4</a> package does a wonderful job. All R functions applied to an <code>lmer</code> object can likewise be applied to such a converted Julia model. Some hustle can happen, when the model to be converted has special properties, such as <code>zerocorr</code> / <code>||</code>, but the Julia community is very helpful.</p>
+</section>
+<section id="quarto" class="level2">
+<h2 class="anchored" data-anchor-id="quarto">Quarto</h2>
+<p>Use quarto to make a website on GitHub (<a href="https://www.youtube.com/watch?v=EjGdjHCo_Ms&amp;list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&amp;index=6">youtube tutorial series</a>), and automatically render website on <a href="https://quarto.org/docs/publishing/github-pages.html#github-action">push</a>.</p>
 
 
 </section>
