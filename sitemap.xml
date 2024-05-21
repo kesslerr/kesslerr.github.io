@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kesslerr.github.io/index.html</loc>
-    <lastmod>2024-05-14T20:56:50.745Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kesslerr.github.io/about.html</loc>
-    <lastmod>2024-05-14T20:56:50.685Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kesslerr.github.io/tools.html</loc>
-    <lastmod>2024-05-14T20:56:50.753Z</lastmod>
+    <loc>https://kesslerr.github.io/videos.html</loc>
+    <lastmod>2023-05-25T09:19:13.889Z</lastmod>
   </url>
   <url>
     <loc>https://kesslerr.github.io/publications.html</loc>
-    <lastmod>2024-05-14T20:56:50.745Z</lastmod>
+    <lastmod>2024-05-21T14:35:36.044Z</lastmod>
   </url>
   <url>
-    <loc>https://kesslerr.github.io/videos.html</loc>
-    <lastmod>2024-05-14T20:56:50.753Z</lastmod>
+    <loc>https://kesslerr.github.io/talks.html</loc>
+    <lastmod>2024-05-21T14:36:09.341Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kesslerr.github.io/tools.html</loc>
+    <lastmod>2024-05-21T14:45:50.552Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kesslerr.github.io/index.html</loc>
+    <lastmod>2024-05-21T14:44:52.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kesslerr.github.io/about.html</loc>
+    <lastmod>2024-05-21T14:53:31.905Z</lastmod>
   </url>
 </urlset>
