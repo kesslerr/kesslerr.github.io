@@ -14,41 +14,6 @@
     "text": "Kessler, Raja, Tapia & Busch (2023) – Towards Minimizing Efforts for Morphing Attacks - Deep Embeddings for Morphing Pair Selection and Improved Morphing Attack Detection. ArXiv link, soon to be published with PLOS ONE\nKessler, Philipp, Wilfer & Kostev (2023) – Predictive attributes for developing long COVID – a study using machine learning and real-world data from primary care physicians in Germany. Journal of Clinical Medicine link\nKessler & Heinrich (2022) – Temporal frequency dependence of the polarity inversion between the upper and lower visual field in the pattern-onset steady-state visual evoked potential. Documenta Ophthalmologica link\nKessler, Rusch, Wende, Schuster & Jansen (2021) – Revisiting the effective connectivity within the distributed cortical network for face perception. Neuroimage: Reports link\nThome, Hohmann, Rusch, Smith, Kessler & Jansen (2021) – “I Spy with my Little Eye, Something that is a Face…”: A Brain Network for Illusory Face Detection. Cerebral Cortex link\nKessler, Henniger & Busch (2021) – Fingerprints, forever young? Proceedings of the 25th International Conference on Pattern Recognition (ICPR) link\nSahraei, Hildesheim, Thome, Kessler, Rusch, Sommer, Kamp-Becker, Stark & Jansen (2021) – Developmental changes within the extended face processing network: A cross‐sectional functional magnetic resonance imaging study. Developmental Neurobiology link\nKessler, Schmitt, Sauder, … & Jansen (2020) – Long-Term Neuroanatomical Consequences of Childhood Maltreatment: Reduced Amygdala Inhibition by Medial Prefrontal Cortex. Frontiers in Systems Neurosciences link\nHildesheim, Debus, Kessler, … & Jansen (2020) – The Trajectory of Hemispheric Lateralization in the Core System of Face Processing: A Cross-Sectional Functional Magnetic Resonance Imaging Pilot Study. Frontiers in Psychology link\nKessler, Bach & Heinrich (2017) – Two-Tactor Vibrotactile Navigation Information for the Blind - Directional Resolution and Intuitive Interpretation. IEEE Transactions on Neural Systems and Rehabilitation Engineering link"
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
-    "section": "",
-    "text": "May 2024 – Is EEG better left alone for decoding? – Psychologie und Gehirn (PuG), Hamburg\nJune 2023 – Visual and auditory population coding for quantity in human cortices – Psychologie und Gehirn (PuG), Tübingen\nMarch 2021 – Fingerprints, forever young? – German Teletrust Biometric Working Group, European Association for Biometrics\nMarch 2020 – A bilateral model of congenital prosopagnosia – connectivity between FFA and ATL – 2nd Symposium of the Arbeitsgemeinschaft für Neuropsychopharmakologie und Pharmakopsychiatrie (AGNP) und Deutsche Gesellschaft für Biologische Psychiatrie (DGNP)\nOctober 2017 – The watchdog won’t stop barking. Reduced Amygdala Inhibition in Major Depression. Normalization via Medication, and the Impact of Genetic and Environmental Risk Factors. – World Congress of Psychiatry, WPA XVII, Berlin"
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "useful tools",
-    "section": "",
-    "text": "To automate my analyses in R, I became fan of targets (formerly: drake), which is similar to Make. After some onboarding headaches, I can’t imagine working without it for new analysis projects."
-  },
-  {
-    "objectID": "tools.html#pipelining-tools",
-    "href": "tools.html#pipelining-tools",
-    "title": "useful tools",
-    "section": "",
-    "text": "To automate my analyses in R, I became fan of targets (formerly: drake), which is similar to Make. After some onboarding headaches, I can’t imagine working without it for new analysis projects."
-  },
-  {
-    "objectID": "tools.html#use-julia-and-r-combined",
-    "href": "tools.html#use-julia-and-r-combined",
-    "title": "useful tools",
-    "section": "Use Julia and R combined",
-    "text": "Use Julia and R combined\nJulia is extremely fast in fitting Mixed models (and probably also other things). For large models, I recommend checking out using Julias MixedModels.jl, which uses the same notations than R’s lme4/lmerTest package. To seamlessly integrate Julia in my R workflow, I use the JuliaCall package in R. To be able to convert Julia models to R model objects, the Julia JellyMe4 package does a wonderful job. All R functions applied to an lmer object can likewise be applied to such a converted Julia model. Some hustle can happen, when the model to be converted has special properties, such as zerocorr / ||, but the Julia community is very helpful."
-  },
-  {
-    "objectID": "tools.html#quarto",
-    "href": "tools.html#quarto",
-    "title": "useful tools",
-    "section": "Quarto",
-    "text": "Quarto\nUse quarto to make a website on GitHub (youtube tutorial series), and automatically render website on push."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr. Roman Kessler",
@@ -89,5 +54,40 @@
     "title": "CV",
     "section": "Stipends",
     "text": "Stipends\n\n5,000 € | 2021 | National Research Center for Applied Cybersecurity (ATHENE)\n1,030 € | 2019 | Deutscher Akademischer Austauschdienst (DAAD)\n1,560 € | 2018 | Marburg International Doctorate (MID)\n250 € | 2018 | MArburg University Research Academy (MARA)\n660 € | 2017 | Young Fellowship Programme, WPA\n1,860 € | 2017 | Marburg International Doctorate (MID)\n500 € | 2016 | Gesellschaft für neurobiologische Forschung und Therapie e.V."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "useful tools",
+    "section": "",
+    "text": "To automate my analyses in R, I became fan of targets (formerly: drake), which is similar to Make. After some onboarding headaches, I can’t imagine working without it for new analysis projects."
+  },
+  {
+    "objectID": "tools.html#pipelining-tools",
+    "href": "tools.html#pipelining-tools",
+    "title": "useful tools",
+    "section": "",
+    "text": "To automate my analyses in R, I became fan of targets (formerly: drake), which is similar to Make. After some onboarding headaches, I can’t imagine working without it for new analysis projects."
+  },
+  {
+    "objectID": "tools.html#use-julia-and-r-combined",
+    "href": "tools.html#use-julia-and-r-combined",
+    "title": "useful tools",
+    "section": "Use Julia and R combined",
+    "text": "Use Julia and R combined\nJulia is extremely fast in fitting Mixed models (and probably also other things). For large models, I recommend checking out using Julias MixedModels.jl, which uses the same notations than R’s lme4/lmerTest package. To seamlessly integrate Julia in my R workflow, I use the JuliaCall package in R. To be able to convert Julia models to R model objects, the Julia JellyMe4 package does a wonderful job. All R functions applied to an lmer object can likewise be applied to such a converted Julia model. Some hustle can happen, when the model to be converted has special properties, such as zerocorr / ||, but the Julia community is very helpful."
+  },
+  {
+    "objectID": "tools.html#quarto",
+    "href": "tools.html#quarto",
+    "title": "useful tools",
+    "section": "Quarto",
+    "text": "Quarto\nUse quarto to make a website on GitHub (youtube tutorial series), and automatically render website on push."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "May 2024 – Is EEG better left alone for decoding? – Psychologie und Gehirn (PuG), Hamburg\nJune 2023 – Visual and auditory population coding for quantity in human cortices – Psychologie und Gehirn (PuG), Tübingen\nMarch 2021 – Fingerprints, forever young? – German Teletrust Biometric Working Group, European Association for Biometrics\nMarch 2020 – A bilateral model of congenital prosopagnosia – connectivity between FFA and ATL – 2nd Symposium of the Arbeitsgemeinschaft für Neuropsychopharmakologie und Pharmakopsychiatrie (AGNP) und Deutsche Gesellschaft für Biologische Psychiatrie (DGNP)\nOctober 2017 – The watchdog won’t stop barking. Reduced Amygdala Inhibition in Major Depression. Normalization via Medication, and the Impact of Genetic and Environmental Risk Factors. – World Congress of Psychiatry, WPA XVII, Berlin"
   }
 ]
