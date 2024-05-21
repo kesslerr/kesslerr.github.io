@@ -31,12 +31,13 @@ Cognitive Neuroscientist & Data Scientist
 library(timevis)
 
 data <- data.frame(
-  id      = 1:8,
-  group   = c(1,1,1,1,2,2,2,2),
+  id      = 1:9,
+  group   = c(1,1,1,1,2,2,2,2,2),
   content = c("Biology BSc"  , 
               "Cognitive Neurosciences MSc"  ,
               "Cognitive Neurosciences PhD", 
               "Data Sciences MSc",
+              "Student Assistant",
               "Cognitive Neuroscientist",
               "Stipendiary (Data Science)",
               "Data Analyst / Data Scientist",
@@ -44,11 +45,11 @@ data <- data.frame(
               #"Towards minimizing efforts for Morphing Attacks"
               ),
   start   = c("2010-10-01", "2014-10-01", "2016-10-01", "2019-10-01",
-              "2016-11-15", "2021-08-01", "2022-02-01", "2022-10-01"
+              "2012-02-01", "2016-11-15", "2021-08-01", "2022-02-01", "2022-10-01"
               #"2023-05-30"
               ),
   end     = c("2014-07-31", "2016-09-30", "2022-07-31", "2022-01-31",
-              "2022-07-31", "2022-01-31", "2022-07-31", "2024-12-31"
+              "2016-09-30", "2021-09-30", "2022-01-31", "2022-07-31", "2024-12-31"
               #NA
               ))
   #start   = c("2016-01-10", "2016-01-11", "2016-01-20", "2016-02-14 15:00:00"),
@@ -81,7 +82,7 @@ timevis(data, groups)
 
 ## Experience
 
-- 2022 - today | **Data Scientist / Cognitive Neuroscientist** | Max Planck Institute for Human Cognitive and Brain Sciences | Leipzig
+- 2022 - today | **Postdoc (Data Science/Cognitive Neurosciences)** | Max Planck Institute for Human Cognitive and Brain Sciences | Leipzig
 
 - 2022 | **Data Analyst / Data Scientist** | IQVIA | Frankfurt
 
@@ -91,4 +92,13 @@ timevis(data, groups)
 
 - 2013 - 2016 | Student assistant positions
 
+## Stipends
 
+
+- 5,000 € | 2021 | National Research Center for Applied Cybersecurity (ATHENE)
+- 1,030 € | 2019 | Deutscher Akademischer Austauschdienst (DAAD)
+- 1,560 € | 2018 | Marburg International Doctorate (MID)
+- 250 € | 2018 | MArburg University Research Academy (MARA)
+- 660 € | 2017 | Young Fellowship Programme, WPA
+- 1,860 € | 2017 | Marburg International Doctorate (MID)
+- 500 € | 2016 | Gesellschaft für neurobiologische Forschung und Therapie e.V.

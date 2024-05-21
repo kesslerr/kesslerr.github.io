@@ -31,7 +31,6 @@ Planing on holidays in the picturesque black forest?
 
 <a href="https://ferienparadies-maierbauernhof.jimdosite.com" class="image-link"><img src="holidays.jpg" alt="holidays"></a>
 
-The zoo of the future will be a place where animals are kept in their natural habitat, and visitors can observe them over a webcam: 
+For relaxing: 
 
-
-{{< video https://www.youtube.com/watch?v=ydYDqZQpim8 >}}
+{{< video https://www.youtube.com/watch?v=ydYDqZQpim8 width="600" height="400" >}}
