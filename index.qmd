@@ -5,11 +5,13 @@ from: markdown+emoji
 
 Cognitive Neuroscientist & Data Scientist
 
-Currently working at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. 
+Working at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. 
 
 Leipzig / Frankfurt a.M. :green_heart:
 
 [Email me](mailto:rkesslerx@gmail.com)
+
+![](./IMG_7429.jpeg){width="50%"}
 
 <!---
 your comment goes here
