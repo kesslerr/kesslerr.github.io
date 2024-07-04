@@ -50,6 +50,8 @@ title: "Publications"
 [//]: # End of the text block
 </div>
 
+[Well ordered chaos](https://impact.h-da.de/en/well-ordered-chaos): Student project: a data mining approach for predicting and explaining the success of kidney transplantations.
+
 <div class="image-container">
 ![](cat_computer.gif)
 </div>
