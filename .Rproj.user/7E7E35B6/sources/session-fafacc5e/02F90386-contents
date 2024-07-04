@@ -1,0 +1,38 @@
+---
+title: "Dr. Roman Kessler"
+from: markdown+emoji
+---
+
+Cognitive Neuroscientist & Data Scientist
+
+Working at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. 
+
+Leipzig / Frankfurt a.M. :green_heart:
+
+[Email me](mailto:rkesslerx@gmail.com)
+
+![](./IMG_7429.jpeg){width="50%"}
+
+<!---
+your comment goes here
+![](cat_box.gif)
+-->
+
+
+
+## Links
+
+Planing on holidays in the picturesque black forest?
+
+<style>
+.image-link img {
+    width: 300px;  /* Adjust the width as needed */
+    height: auto;  /* This will automatically adjust the height proportionally */
+}
+</style>
+
+<a href="https://ferienparadies-maierbauernhof.jimdosite.com" class="image-link"><img src="holidays.jpg" alt="holidays"></a>
+
+For relaxing: 
+
+{{< video https://www.youtube.com/watch?v=ydYDqZQpim8 width="600" height="400" >}}

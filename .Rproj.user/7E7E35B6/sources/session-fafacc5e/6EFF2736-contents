@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Roman Kessler"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - publications.qmd
+      - talks.qmd
+      - tools.qmd
+      #- videos.qmd
+
+format:
+  html:
+    theme: flatly
+# theme: cosmo
+    css: styles.css
+    toc: true
+
+# for GitHub actions: automatical rendering
+execute:
+  freeze: auto
+

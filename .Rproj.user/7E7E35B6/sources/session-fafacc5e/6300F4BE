@@ -1,0 +1,32 @@
+{
+    "id": "6300F4BE",
+    "path": "~/GitHub/kesslerr.github.io/tools.qmd",
+    "project_path": "tools.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1685442010954.0,
+    "source_on_save": true,
+    "relative_order": 7,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,168",
+        "scrollLine": "1",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "244:0",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1716302750,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1716302750555,
+    "read_only": false,
+    "read_only_alternatives": []
+}
