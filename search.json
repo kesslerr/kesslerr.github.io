@@ -25,14 +25,14 @@
     "href": "tools.html",
     "title": "useful tools",
     "section": "",
-    "text": "If using apps like Splitwise for keeping track of holiday expenses with friends, but don’t want to pay for the simplify debts option. The option basically calculates the minimum amount of transactions to settle all debts between \\(N\\) friends, reducing the amount of transactions from up tp \\(N\\times N- N\\) to \\(\\leq N\\) transactions for the whole group. The following Shiny app server does the same for you: link"
+    "text": "If using apps like Splitwise for keeping track of holiday expenses with friends, but don’t want to pay for the simplify debts option. The option calculates the minimum amount of transactions to settle all debts between \\(N\\) friends, reducing the amount of transactions from up tp \\(N\\times N- N\\) to \\(\\leq N\\) transactions for the whole group. The following Shiny app server does the same for you: link"
   },
   {
     "objectID": "tools.html#simplify-debts",
     "href": "tools.html#simplify-debts",
     "title": "useful tools",
     "section": "",
-    "text": "If using apps like Splitwise for keeping track of holiday expenses with friends, but don’t want to pay for the simplify debts option. The option basically calculates the minimum amount of transactions to settle all debts between \\(N\\) friends, reducing the amount of transactions from up tp \\(N\\times N- N\\) to \\(\\leq N\\) transactions for the whole group. The following Shiny app server does the same for you: link"
+    "text": "If using apps like Splitwise for keeping track of holiday expenses with friends, but don’t want to pay for the simplify debts option. The option calculates the minimum amount of transactions to settle all debts between \\(N\\) friends, reducing the amount of transactions from up tp \\(N\\times N- N\\) to \\(\\leq N\\) transactions for the whole group. The following Shiny app server does the same for you: link"
   },
   {
     "objectID": "tools.html#pipelining-tools",
