@@ -10,7 +10,10 @@ your comment goes here
 
 ## Simplify Debts
 
-If using apps like Splitwise for keeping track of holiday expenses with friends, but don't want to pay for the [simplify debts option](https://blog.splitwise.com/2012/09/14/debts-made-simple/). The option calculates the minimum amount of transactions to settle all debts between $N$ friends, reducing the amount of transactions from up tp $N\times N- N$ to $\leq N$ transactions for the whole group. The following Shiny app server does the same for you: [link](https://1zip98-roman0kessler.shinyapps.io/simplidebts/)
+If using apps like Splitwise for keeping track of holiday expenses with friends, but don't want to pay for the [simplify debts option](https://blog.splitwise.com/2012/09/14/debts-made-simple/). The option calculates the minimum amount of transactions to settle all debts between $N$ friends, reducing the amount of transactions from up tp $N\times N- N$ to $\leq N$ transactions for the whole group. The following Shiny app server does the same for you:
+
+
+[--> Simplify Debts (reduce transactions)  <--](https://1zip98-roman0kessler.shinyapps.io/simplidebts/)
 
 ## Pipelining tools
 

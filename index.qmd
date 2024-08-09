@@ -35,4 +35,4 @@ Planing on holidays in the picturesque black forest?
 
 For relaxing: 
 
-{{< video https://www.youtube.com/watch?v=ydYDqZQpim8 width="600" height="400" >}}
+{{< video https://www.youtube.com/watch?v=ydYDqZQpim8 width="450" height="300" >}}
