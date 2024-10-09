@@ -26,6 +26,12 @@ title: "Publications"
 
 <div class="text-container">
 
+- Kessler & Skeide (2024) **Electrophysiological decoding captures the temporal trajectory of face categorization in infants** *BioRxiv* [link](https://www.biorxiv.org/content/10.1101/2024.10.07.617144v1.article-info)
+
+  - Kessler & Skeide (2024) [Dataset] **EEG Dataset of 38 Infants (Aged 5-13 Months) Viewing Human and Monkey Faces (Two Identities Each)** *Zenodo* [dataset link](https://doi.org/10.5281/zenodo.13881207)
+
+- Yücel, Luke, Mesquita, von Lühmann, ..., Kessler, ... (2024) **The fNIRS Reproducibility Study Hub (FRESH): Exploring Variability and Enhancing Transparency in fNIRS Neuroimaging Research.** *MetaArXiv* [link](https://osf.io/preprints/metaarxiv/pc6x8)
+
 - Kessler, Raja, Tapia & Busch (2024) -- **Towards Minimizing Efforts for Morphing Attacks - Deep Embeddings for Morphing Pair Selection and Improved Morphing Attack Detection.** *PLOS ONE* [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304610) or *Arxiv* [link](https://arxiv.org/abs/2305.18216)
 
 - Kessler, Philipp, Wilfer & Kostev (2023) -- **Predictive attributes for developing long COVID – a study using machine learning and real-world data from primary care physicians in Germany.** *Journal of Clinical Medicine* [link](https://www.mdpi.com/2077-0383/12/10/3511)

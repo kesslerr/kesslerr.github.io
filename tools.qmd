@@ -8,12 +8,19 @@ your comment goes here
 
 -->
 
+# General
+
 ## Simplify Debts
 
 If using apps like Splitwise for keeping track of holiday expenses with friends, but don't want to pay for the [simplify debts option](https://blog.splitwise.com/2012/09/14/debts-made-simple/). The option calculates the minimum amount of transactions to settle all debts between $N$ friends, reducing the amount of transactions from up tp $N\times N- N$ to $\leq N$ transactions for the whole group. The following Shiny app server does the same for you:
 
 
 [--> Simplify Debts (reduce transactions)  <--](https://1zip98-roman0kessler.shinyapps.io/simplidebts/)
+
+## Zotero incl. free large storage for synchronization between devices
+
+It is very handy to use Zotero between devices (Laptop, Ipad, ...), as the synchronization not only of the papers, but also of the comments, hand drawings, etc. works quite reliable! The free storage from Zotero in the free plan is however limited. With an own cloud service, one can however bypass this and get a larger storage (in this example 5 GB) by using e.g. [Webo Hosting](https://webo.cloud) as free cloud. With the free account and space, go to Zotero Settings -> Sync, and choose WebDAV as sync method. The WebDAV URL is the one you cen find in Webo Hosting, and the username and password are the ones from the Webo Hosting account. 
+
 
 ## Pipelining tools
 
@@ -29,4 +36,42 @@ Julia is extremely fast in fitting Mixed models (and probably also other things)
 
 Use quarto to make a website on GitHub ([youtube tutorial series](https://www.youtube.com/watch?v=EjGdjHCo_Ms&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=6)), and automatically render website on  [push](https://quarto.org/docs/publishing/github-pages.html#github-action).
 
+
+# MacOS tools (free)
+
+This serves more as a reminder to myself, what I should install again that simplifies life on MacOS.
+
+
+- [AlDente](https://apphousekitchen.com/de/) - Charge Limiter for Mac
+
+- [RemoteForMac](https://cherpake.com/apps/helper/mac/) - control your Mac from your iPhone
+
+- [OnlySwitch](https://github.com/jacklandrin/OnlySwitch?tab=readme-ov-file) - series of toggle switches to simplify your routine work in the status bar
+
+- [CopyClip](https://apps.apple.com/de/app/copyclip-clipboard-history/id595191960?mt=12) - Clipboard history manager (status bar)
+
+- [PurePaste](https://apps.apple.com/de/app/pure-paste/id1611378436?mt=12) - Removes formatting from texts when copied!
+
+- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS using keyboard shortcuts or snap areas. Since MacOS Sequoia, the app is not really necessary anymore.
+
+- [Meld](https://meld.app) - Visual diff and merge tool; compare texts or so visually to see changes
+
+- [TableTool](https://tabletool.io) - Simple CSV editor, avoids opening Excel or alike with higher loading times.
+
+- DeTeXt (formula image to Tex)
+
+- Hidden Bar
+
+- Keka - Zip without adding ".macos" folder. .macos folder can interfer with some very niche data science apps, that work with zipped files.
+
+- Libkey Nomad - Access to scientific papers by automatically login via your institute credentials. Works in most cases.
+
+- Mathpix Snipping Tool
+
+- DeTeXt
+
+
+# Iphone apps
+
+- Lockcard - Vocabulary learning app (English - English, or Chinese - English) with custom homescreen notifications, widgets, and so on
 
