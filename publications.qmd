@@ -26,6 +26,8 @@ title: "Publications"
 
 <div class="text-container">
 
+- Kessler, Enge & Skeide (2024) **How EEG preprocessing shapes decoding performance** *Arxiv* [link](https://arxiv.org/abs/2410.14453)
+
 - Kessler & Skeide (2024) **Electrophysiological decoding captures the temporal trajectory of face categorization in infants** *BioRxiv* [link](https://www.biorxiv.org/content/10.1101/2024.10.07.617144v1.article-info)
 
   - Kessler & Skeide (2024) [Dataset] **EEG Dataset of 38 Infants (Aged 5-13 Months) Viewing Human and Monkey Faces (Two Identities Each)** *Zenodo* [dataset link](https://doi.org/10.5281/zenodo.13881207)
