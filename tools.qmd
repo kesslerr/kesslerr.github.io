@@ -62,9 +62,9 @@ This serves more as a reminder to myself, what I should install again that simpl
 
 - Hidden Bar
 
-- Keka - Zip without adding ".macos" folder. .macos folder can interfer with some very niche data science apps, that work with zipped files.
+- Keka - Zip without adding ".macos" folder. .macos folder can interfere with some very niche data science apps, that work with zipped files.
 
-- Libkey Nomad - Access to scientific papers by automatically login via your institute credentials. Works in most cases.
+- Libkey Nomad - Access to scientific papers by automatically log in via your institute credentials. Works in most cases.
 
 - Mathpix Snipping Tool
 
@@ -73,5 +73,5 @@ This serves more as a reminder to myself, what I should install again that simpl
 
 # Iphone apps
 
-- Lockcard - Vocabulary learning app (English - English, or Chinese - English) with custom homescreen notifications, widgets, and so on
+- Lockcard - Vocabulary learning app (English - English, or Chinese - English) with custom home screen notifications, widgets, and so on
 
