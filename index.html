@@ -121,8 +121,9 @@
         <ul class="fa-ul mb-5">
           <li>
             <span class="fa-li"><i class="fa-solid fa-building-columns"></i></span>
-            <a href="https://www.cbs.mpg.de/en" target="_blank">Max Planck Institute for Human Cognitive and Brain
+            <a href="kesslerr.de" target="_blank">Universitätsklinikum Schleswig-Holstein (UKSH), Center for Integrative Psychiatry (ZiP) & Max Planck Institute for Human Cognitive and Brain
               Sciences</a>
+              # TODO: Link anpassen, sobald Institutsseite vorhanden
           </li>
           <li>
             <span class="fa-li"><i class="fa-solid fa-house"></i></span>
@@ -130,9 +131,8 @@
           </li>
           <li>
             <span class="fa-li"><i class="fas fa-envelope"></i></span>
-            <a
-              href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#107;&#101;&#115;&#115;&#108;&#101;&#114;&#120;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
-              &#114;&#107;&#101;&#115;&#115;&#108;&#101;&#114;&#120;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#111;&#109;&#97;&#110;&#46;&#107;&#101;&#115;&#115;&#108;&#101;&#114;&#64;&#117;&#107;&#115;&#104;&#46;&#100;&#101;">
+              &#114;&#111;&#109;&#97;&#110;&#46;&#107;&#101;&#115;&#115;&#108;&#101;&#114;&#64;&#117;&#107;&#115;&#104;&#46;&#100;&#101;
             </a>
           </li>
           <li>
@@ -1179,13 +1179,14 @@
   <p>Mail:
     <script>
       (function () {
-        var p1 = 'rkesslerx';
-        var p2 = 'gmail';
-        var domain = p2 + '.com';
+        // Construct the email in parts to keep it slightly obfuscated in source
+        var p1 = 'roman.kessler';
+        var p2 = 'uksh';
+        var domain = p2 + '.de';
         var email = p1 + '@' + domain;
         var a = document.createElement('a');
         a.href = 'mailto:' + email;
-        a.textContent = email; // or use a.innerHTML = '&#64;' if you prefer entities
+        a.textContent = email; // visible text (could be entity-encoded if you prefer)
         document.currentScript.parentNode.insertBefore(a, document.currentScript);
       })();
     </script>
